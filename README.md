@@ -11,3 +11,4 @@ let arr = [john,jo,jin];
 
 console.log(getAverageAge(arr)); // (27 + 21 + 25) / 3 = 24.33
 ```
+ชัยรัตน์ ทรัพย์สนอง (ตูน)
